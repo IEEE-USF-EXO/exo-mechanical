@@ -1,0 +1,17 @@
+* text=auto
+
+# Native SOLIDWORKS (D-007). These stay in Drive; the patterns are here in case one is added by mistake.
+*.sldprt binary
+*.sldasm binary
+*.slddrw binary
+
+# Neutral exports and drawings
+*.step binary
+*.stp binary
+*.stl binary
+*.pdf binary
+*.png binary
+*.jpg binary
+
+# BOM stays LF so diffs stay readable
+*.csv text eol=lf

@@ -1,0 +1,18 @@
+# Secrets: never commit. Use the matching *.example file.
+.env
+secrets.h
+# OS and editor
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+~$*
+
+# Native SOLIDWORKS files stay out of Git (binary, cannot be merged).
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
+*.bak
