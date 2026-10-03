@@ -1,2 +1,9 @@
-# Replace placeholder with GitHub username before first push.
-* @layanbargouthi
+# CODEOWNERS. Org teams, not individual accounts.
+# Org convention Section 4: * is the project leads team; team paths are the owning team.
+# A team reference requires that team to hold write access on this repo.
+* @IEEE-USF-EXO/exo-leads
+/modules/ @IEEE-USF-EXO/exo-mechanical
+/analysis/ @IEEE-USF-EXO/exo-mechanical
+/assembly/ @IEEE-USF-EXO/exo-mechanical
+/bom/ @IEEE-USF-EXO/exo-mechanical
+/docs/ @IEEE-USF-EXO/exo-mechanical
