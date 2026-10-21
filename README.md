@@ -83,7 +83,6 @@ Branch from `main`, open a pull request, get one approval from the code owner, m
 Native SOLIDWORKS files, bench logs, test data, photos, and vendor PDFs live in Drive. This repo holds exports, drawings, the BOM, code, and short summaries. Exports are STEP and STL, drawings are PDF, and the BOM is CSV.
 
 CAD: https://drive.google.com/drive/folders/1sMgbFofCqB6DEapmZF6tF5tD1TZEUM76
-SOLIDWORKS: https://drive.google.com/drive/folders/1cqIBugpexhk7zoOh13YJuDqX04W12R3Y
 
 Sub-team folders inside the Mechanical folder:
 - Conquistadors: https://drive.google.com/drive/folders/1-N154LxBfmxJU8Cz5WTFKkoVAxI1Gutl
